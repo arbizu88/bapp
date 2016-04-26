@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+.bar-brown{
+	background-color: #FBFB00;
+}
+
+.item-body{
+	background-color: #444444;
+	color: #fff;
+	font-size: 20px;
+	font-family: sans-serif calibri;
+}
+
+.item-body p{
+	color: #fff;
+}
+.item-divider-right{
+	padding-left: 25%
+}
+
